@@ -1,23 +1,45 @@
-# Hi, I'm Amr Gamal 👋
+<div align="center">
 
-**Software Engineer** based in Cairo, Egypt.
+# Amr Gamal
 
-I build clean, modern web experiences — from landing pages to e‑commerce UIs — with a focus on clarity, performance, and craft.
+**Software Engineer** · AI-powered products & agents · Cairo, Egypt
 
-### What I work with
-- **Frontend:** HTML, CSS, JavaScript / TypeScript
-- **Building:** responsive UIs, product landings, storefronts
-- **Shipping:** GitHub, iterative delivery
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-gamal-a274b9213/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrgamal194)
 
-### Featured work
-| Project | About |
+</div>
+
+---
+
+### About
+I design and ship software that **connects real products to AI** — from intelligent features inside apps to **AI agents** that automate workflows end to end.
+
+Focused on clear UX, solid engineering, and practical AI that teams can actually use.
+
+### Focus areas
+- **AI agents** — tool-using agents, automation, orchestration
+- **AI × product** — embedding models & agents into web software
+- **Frontend craft** — modern, responsive interfaces (HTML/CSS/JS/TS)
+- **Full delivery** — from idea → repo → shipped experience
+
+### Stack
+`TypeScript` · `JavaScript` · `HTML/CSS` · `AI / LLMs` · `Agents` · `GitHub`
+
+### Featured projects
+| Project | What it shows |
 | --- | --- |
-| [E-commarce](https://github.com/amrgamal194/E-commarce) | E‑commerce storefront UI (CSS) |
-| [video](https://github.com/amrgamal194/video) | Media assets & video demos |
+| [E-commarce](https://github.com/amrgamal194/E-commarce) | E-commerce storefront UI (HTML & CSS) |
+| [video](https://github.com/amrgamal194/video) | Media / video demos |
 
 ### Connect
-- 🌐 Portfolio: *(coming soon — GitHub Pages)*
-- 📍 Cairo, Egypt
-- ✉️ Reach me via GitHub
+- LinkedIn: [amr-gamal-a274b9213](https://www.linkedin.com/in/amr-gamal-a274b9213/)
+- GitHub: [amrgamal194](https://github.com/amrgamal194)
+- Location: Cairo, Egypt
 
-Thanks for stopping by — feel free to explore the repos above.
+---
+
+<div align="center">
+
+*Building software that thinks with you.*
+
+</div>
