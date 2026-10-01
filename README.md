@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Amr Gamal 👋
 
-<!--
-**amrgamal194/amrgamal194** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer** based in Cairo, Egypt.
 
-Here are some ideas to get you started:
+I build clean, modern web experiences — from landing pages to e‑commerce UIs — with a focus on clarity, performance, and craft.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work with
+- **Frontend:** HTML, CSS, JavaScript / TypeScript
+- **Building:** responsive UIs, product landings, storefronts
+- **Shipping:** GitHub, iterative delivery
+
+### Featured work
+| Project | About |
+| --- | --- |
+| [E-commarce](https://github.com/amrgamal194/E-commarce) | E‑commerce storefront UI (CSS) |
+| [video](https://github.com/amrgamal194/video) | Media assets & video demos |
+
+### Connect
+- 🌐 Portfolio: *(coming soon — GitHub Pages)*
+- 📍 Cairo, Egypt
+- ✉️ Reach me via GitHub
+
+Thanks for stopping by — feel free to explore the repos above.
