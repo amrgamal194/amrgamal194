@@ -32,6 +32,7 @@ Focused on clear UX, solid engineering, and practical AI that teams can actually
 | [video](https://github.com/amrgamal194/video) | Media / video demos |
 
 ### Connect
+- Portfolio: https://amrgamal194.github.io/
 - LinkedIn: [amr-gamal-a274b9213](https://www.linkedin.com/in/amr-gamal-a274b9213/)
 - GitHub: [amrgamal194](https://github.com/amrgamal194)
 - Location: Cairo, Egypt
